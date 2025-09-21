@@ -1,4 +1,4 @@
-# Mcrosft_Fabric_End_to_End-Project-PySpark-Notebook-Data-Pipeline
+# Microsft_Fabric_End_to_End-Project-PySpark-Notebook-Data-Pipeline
 
 This project demonstrates the end-to-end process of building a modern data lakehouse and analytics solution using Microsoft Fabric, Python, and Power BI. 
 
